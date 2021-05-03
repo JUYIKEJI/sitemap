@@ -1,6 +1,7 @@
 # sitemap.xml 网站地图生成器typecho版
 
 修改自hanny版本，支持最新版本typecho生成器.xml由 @白先生 部分优化重构。
+
 主页内容：https://www.baixiaomo360.com/9
 最终演示：https://www.baixiaomo360.com/sitemap.xml
 
