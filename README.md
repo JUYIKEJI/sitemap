@@ -57,3 +57,8 @@ flowchart LR
 | 1.1.1 | 原版本 | 修改自 hanny 版本，由 @白先生 优化重构 |
 
 原说明参考：主页内容 https://www.baixiaomo360.com/9，演示 https://www.baixiaomo360.com/sitemap.xml
+
+## 相关链接
+
+- [阿彦的主页](https://github.com/JUYIKEJI)
+- [阿彦网站地图（WordPress 版）](https://github.com/JUYIKEJI/wordpress-sitemap)（1.0.0 版）
