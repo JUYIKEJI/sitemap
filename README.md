@@ -3,6 +3,7 @@
 给 Typecho 博客生成网站地图的插件。启用后，打开 `网站地址/sitemap.xml` 就能看到整站地图，方便搜索引擎抓取和收录。
 
 > ⚠️ 仅支持 Typecho，暂不支持 WordPress，请勿安装到 WordPress 上。
+> WordPress 请用 [阿彦网站地图（WordPress 版）](https://github.com/JUYIKEJI/wordpress-sitemap)（1.0.0 版）。
 
 ## 快速上手
 
